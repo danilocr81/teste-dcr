@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Transforme sua infraestrutura com suporte técnico de excelência e
+        serviços personalizados para o seu negócio
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
