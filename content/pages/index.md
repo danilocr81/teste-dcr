@@ -10,10 +10,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Nossos Serviços
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Com a DCR Suporte, sua empresa conta com uma gama de serviços
+      especializados para otimizar a gestão de sua infraestrutura de TI. Nosso
+      objetivo é proporcionar soluções inovadoras e seguras para o seu
+      crescimento.
+
     actions:
       - label: See Tutorials
         altText: ''
